@@ -1,4 +1,4 @@
-# 🏡 Housing Sale Price Prediction
+# Housing Sale Price Prediction
 
 This project applies data preprocessing and machine learning techniques to predict the sale prices of residential homes using the popular [Ames Housing dataset](https://www.kaggle.com/c/house-prices-advanced-regression-techniques).
 
